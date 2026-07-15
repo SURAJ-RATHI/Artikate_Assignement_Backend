@@ -1,5 +1,7 @@
 # Artikate Studio Backend Assessment
 
+**Video_DEMO:** https://drive.google.com/file/d/1Vob95CRNwmFc3YYYC9B8OvspU2CN3JBK/view?usp=sharing
+
 Small Django project for the backend assessment. I kept it intentionally local-first: SQLite for tests, Redis only needed when running the Celery worker for real.
 
 ## Setup
@@ -81,6 +83,5 @@ python manage.py email_job_status
 
 After recording, Loom gives a share link. Put that link in this README under the optional section before submitting.
 
-**Video_DEMO:** https://drive.google.com/file/d/1Vob95CRNwmFc3YYYC9B8OvspU2CN3JBK/view?usp=sharing
 
 
