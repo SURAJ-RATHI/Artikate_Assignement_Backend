@@ -81,5 +81,6 @@ python manage.py email_job_status
 
 After recording, Loom gives a share link. Put that link in this README under the optional section before submitting.
 
-I did not include a Loom link for the optional section.
+**Video_DEMO:** https://drive.google.com/file/d/1Vob95CRNwmFc3YYYC9B8OvspU2CN3JBK/view?usp=sharing
+
 
